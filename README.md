@@ -1,4 +1,4 @@
-# NortheasternUniversityCourseProjects
+# Northeastern-University-Course-Projects
 Here are my coursework and projects during my graduate studies at NEU.
 
 ### 2021-Fall: 
