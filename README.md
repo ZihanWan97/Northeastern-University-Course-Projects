@@ -3,7 +3,11 @@ Here are my coursework and projects during my graduate studies at NEU.
 
 ## Catalog:
 ### 2021-Fall: 
-INFO5100 *Application Engineer & Dev*  
+#### :file_folder:[INFO5100 *Application Engineering & Development*](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development)  
+- :file_folder:[Assignment requirements](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Assignment%20requirements)  
+- :file_folder:[info5100_assignment01](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/info5100_assignment01)  
+- :file_folder:[info5100_assignment02](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/info5100_assignment02) 
+
 INFO6105 *Data Sci Eng Methods*
            
 ### 2022-Spring:     
