@@ -7,7 +7,7 @@ Here are my coursework and projects during my graduate studies at NEU.
 - :file_folder:[Assignment-1](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Assignment-1)
 - :file_folder:[Assignment-2](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Assignment-2) 
 - :file_folder:[Assignment-3](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Assignment-3) 
-- - :file_folder:[Assignment-3](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Assignment-4) 
+- :file_folder:[Assignment-4](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Assignment-4) 
 
 INFO6105 *Data Sci Eng Methods*
            
