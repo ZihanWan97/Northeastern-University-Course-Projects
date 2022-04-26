@@ -4,7 +4,7 @@ Here are my coursework and projects during my graduate studies at NEU.
 ## Catalog:
 ### 2021-Fall: 
 #### :file_folder:[INFO5100 *Application Engineering & Development(Java)*](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development)  
-- :file_folder:[Assignment-1](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Assignment-1)
+- :file_folder:[Assignment-1-Personal Profile](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Assignment-1)
 - :file_folder:[Assignment-2](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Assignment-2) 
 - :file_folder:[Assignment-3](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Assignment-3) 
 - :file_folder:[Assignment-4](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Assignment-4) 
