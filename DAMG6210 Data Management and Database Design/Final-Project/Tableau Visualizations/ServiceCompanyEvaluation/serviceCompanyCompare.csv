@@ -1,0 +1,11 @@
+service_company_name,service_type,times_of_service,average_fee,evaluation
+AAA Repair Company,appliance repair,25,275.76,7.16
+Alarming Company,alarm repair,26,117.3076,7.58
+City Water Company,water,31,124.7096,7.68
+Clean Master Company,cleaning,25,525.52,4.76
+ELECT Company,electrical,29,210.5172,7.14
+Heating Company,heating repair,30,245.5666,7.03
+Pest Away Org.,pest control,16,145.1875,7.06
+Plumbing Plumbing Org.,plumbing,28,217.6428,6.79
+Roof Helper,roof repair,18,220.6111,6.72
+Super Security Company,security,20,62.2,5.7
