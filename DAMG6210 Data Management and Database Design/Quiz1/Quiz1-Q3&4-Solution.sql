@@ -1,4 +1,3 @@
-
 -- Last Digit of NUID 0, 8 or 9
 
 -- Question 3 (4 points)
@@ -46,4 +45,3 @@ join Person.Person p
 on t1.SalesPersonID = p.BusinessEntityID
 where BR <= 3 and SC >10
 order by SalesPersonID;
-
