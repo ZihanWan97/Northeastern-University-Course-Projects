@@ -13,6 +13,8 @@ Here are my coursework and projects during my graduate studies at NEU.
 
 
 INFO6105 *Data Sci Eng Methods*
+
+
            
 ### 2022-Spring:     
 #### :file_folder:[DAMG6210 *Data Management and Database Design(SQL)*](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/DAMG6210%20Data%20Management%20and%20Database%20Design)
@@ -24,6 +26,8 @@ INFO6105 *Data Sci Eng Methods*
 - :file_folder:[Quiz1](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/DAMG6210%20Data%20Management%20and%20Database%20Design/Quiz1) 
 - :file_folder:[Quiz2](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/DAMG6210%20Data%20Management%20and%20Database%20Design/Quiz2) 
 - :file_folder:[Final-Project](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/DAMG6210%20Data%20Management%20and%20Database%20Design/Final-Project) 
+
+INFO7225 *Account/Budgets for Engineers*
 
 
 
