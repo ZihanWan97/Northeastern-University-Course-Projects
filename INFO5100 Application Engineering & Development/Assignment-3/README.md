@@ -20,3 +20,11 @@ Team size: (1 - 3 students), it's free to team up with students from another ses
 
 ## Presentation
 ![image](https://user-images.githubusercontent.com/103607344/226143039-b17efd08-3933-4265-b40d-086e22206fbc.png)
+
+
+## Diagrams
+![image](https://user-images.githubusercontent.com/103607344/226143123-e24bc37d-cdc4-4044-94ee-92fc470b5f19.png)
+![image](https://user-images.githubusercontent.com/103607344/226143135-9a5eb3e5-b5e1-4806-97bf-4c0990a00ca4.png)
+![image](https://user-images.githubusercontent.com/103607344/226143153-0e4bf12a-ce9c-4b89-a1b7-f1284cadcd95.png)
+
+
