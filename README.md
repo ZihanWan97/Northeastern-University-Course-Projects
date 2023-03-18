@@ -13,8 +13,10 @@ Here are my coursework and projects during my graduate studies at NEU.
 
 
 #### :file_folder:[INFO6105 *Data Sci Eng Methods(Python)*](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods)
-- :file_folder:[Assignments](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments)
-           - :file_folder:[Assignment-01](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-01)
+- :file_folder:[Assignment-01](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-01)
+- :file_folder:[Assignment-02](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-02)
+-- :file_folder:[Assignment-03](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-03)
+
 
            
 ### 2022-Spring:     
