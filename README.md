@@ -10,7 +10,7 @@ Here are my coursework and projects during my graduate studies at NEU.
 - :file_folder:[Assignment-4](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Assignment-4) 
 - :file_folder:[Assignment-5](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Assignment-5)   
 - :file_folder:[Final-Project](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Final-Project) 
-
+----------------
 
 #### :file_folder:[INFO6105 *Data Sci Eng Methods(Python)*](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods)
 - :file_folder:[Assignment-01](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-01)
@@ -24,7 +24,7 @@ Here are my coursework and projects during my graduate studies at NEU.
 - :file_folder:[Assignment-mid](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-mid)
 - :file_folder:[Final-Project](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Final%20Project)
 
-
+------------------
            
 ### 2022-Spring:     
 #### :file_folder:[DAMG6210 *Data Management and Database Design(SQL)*](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/DAMG6210%20Data%20Management%20and%20Database%20Design)
@@ -39,8 +39,11 @@ Here are my coursework and projects during my graduate studies at NEU.
 
 INFO7225 *Accounting and Budgetary Systems for Engineers(Non-Code)*
 
-
+--------------------
 
 
 ### 2022-Fall:     
 #### :file_folder:[INFO7390 *Advances Data Science Architecture(Python)*](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO7390%20Advances%20Data%20Science%20Architecture)
+- :file_folder:[Assignment-01](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO7390%20Advances%20Data%20Science%20Architecture/Assignment-01)
+- :file_folder:[Assignment-02](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO7390%20Advances%20Data%20Science%20Architecture/Assignment-02)
+- :file_folder:[Final-Project](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO7390%20Advances%20Data%20Science%20Architecture/Final-Project)
