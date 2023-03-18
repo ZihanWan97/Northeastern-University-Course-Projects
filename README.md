@@ -12,7 +12,7 @@ Here are my coursework and projects during my graduate studies at NEU.
 - :file_folder:[Final-Project](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO5100%20Application%20Engineering%20%26%20Development/Final-Project) 
 
 
-INFO6105 *Data Sci Eng Methods(Python)*
+#### :file_folder:[INFO6105 *Data Sci Eng Methods(Python)*]
 
 
            
