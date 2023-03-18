@@ -1,3 +1,6 @@
+# Proposal
+![image](https://user-images.githubusercontent.com/103607344/226144717-f272d5a7-074e-4f0b-a5a2-5c561fd38461.png)
+
 # Database ERD
 ![image](https://user-images.githubusercontent.com/103607344/226143308-988d306b-8af8-4eba-9a65-41a49fc284fc.png)
 
