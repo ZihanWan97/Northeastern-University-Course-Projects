@@ -22,7 +22,7 @@ Here are my coursework and projects during my graduate studies at NEU.
 - :file_folder:[Assignment-07](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-07)
 - :file_folder:[Assignment-08](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-08)
 - :file_folder:[Assignment-mid](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-mid)
-- :file_folder:[Final-Project](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Final Project)
+- :file_folder:[Final-Project](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Final%20Project)
 
 
            
