@@ -15,7 +15,13 @@ Here are my coursework and projects during my graduate studies at NEU.
 #### :file_folder:[INFO6105 *Data Sci Eng Methods(Python)*](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods)
 - :file_folder:[Assignment-01](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-01)
 - :file_folder:[Assignment-02](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-02)
--- :file_folder:[Assignment-03](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-03)
+- :file_folder:[Assignment-03](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-03)
+- :file_folder:[Assignment-04](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-04)
+- :file_folder:[Assignment-05](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-05)
+- :file_folder:[Assignment-06](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-06)
+- :file_folder:[Assignment-07](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-07)
+- :file_folder:[Assignment-08](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-08)
+- :file_folder:[Assignment-mid](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO6105%20Data%20Sci%20Eng%20Methods/Assignments/Assignment-mid)
 
 
            
