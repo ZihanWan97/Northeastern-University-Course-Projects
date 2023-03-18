@@ -1,6 +1,9 @@
 # Proposal
 ![image](https://user-images.githubusercontent.com/103607344/226132780-2ddcc614-42fb-4589-bee9-996aa24d8093.png)
 
+# Code
+![image](https://user-images.githubusercontent.com/103607344/226142651-8aebc721-68d7-4f65-a456-3ad228e95b29.png)
+
 # Report
 ![image](https://user-images.githubusercontent.com/103607344/226132943-bcfd171c-4587-4272-ad0b-36a7307ef0b8.png)
 ![image](https://user-images.githubusercontent.com/103607344/226132983-8e9655c6-46a4-4720-9739-364931805e28.png)
