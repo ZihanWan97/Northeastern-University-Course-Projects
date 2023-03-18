@@ -1,6 +1,8 @@
 # Database ERD
 ![image](https://user-images.githubusercontent.com/103607344/226143308-988d306b-8af8-4eba-9a65-41a49fc284fc.png)
 
+# [SQL](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/blob/main/DAMG6210%20Data%20Management%20and%20Database%20Design/Final-Project/Implement-Trigger-Function-View.sql)
+
 # Presentation
 https://user-images.githubusercontent.com/103607344/165450953-99645b13-a5fa-475f-9d02-ad0ad958acba.mp4
 
