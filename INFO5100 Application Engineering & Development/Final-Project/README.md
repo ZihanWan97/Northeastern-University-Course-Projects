@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/103607344/226132289-fbf79c77-c319-4b5d-b6fa-36b47f5b1bff.png)
+
+
 ## Main Screen  
 <img src="https://user-images.githubusercontent.com/103607344/165432283-961513fd-143f-4c47-823f-519116c50ad0.png" width="375" height="300" />    
 
