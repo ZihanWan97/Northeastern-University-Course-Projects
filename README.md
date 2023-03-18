@@ -48,3 +48,9 @@ INFO7225 *Accounting and Budgetary Systems for Engineers(Non-Code)*
 - :file_folder:[Assignment-01](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO7390%20Advances%20Data%20Science%20Architecture/Assignment-01)
 - :file_folder:[Assignment-02](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO7390%20Advances%20Data%20Science%20Architecture/Assignment-02)
 - :file_folder:[Final-Project](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO7390%20Advances%20Data%20Science%20Architecture/Final-Project)🦞
+
+#### :file_folder:[CSYE7105 *High Performance Parallel Machine Learning and AI(Python+Linux)*](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/CSYE7105%20High%20Performance%20Parallel%20Machine%20Learning%20and%20AI)
+- :file_folder:[Assignment-01](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/CSYE7105%20High%20Performance%20Parallel%20Machine%20Learning%20and%20AI/Assignment-01)
+- :file_folder:[Assignment-02](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/CSYE7105%20High%20Performance%20Parallel%20Machine%20Learning%20and%20AI/Assignment-02)
+- :file_folder:[Assignment-03](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/CSYE7105%20High%20Performance%20Parallel%20Machine%20Learning%20and%20AI/Assignment-03)
+- :file_folder:[Final-Project](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/CSYE7105%20High%20Performance%20Parallel%20Machine%20Learning%20and%20AI/Final-Project)🦞
