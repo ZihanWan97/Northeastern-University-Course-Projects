@@ -41,3 +41,6 @@ INFO7225 *Accounting and Budgetary Systems for Engineers(Non-Code)*
 
 
 
+
+### 2022-Fall:     
+#### :file_folder:[INFO7390 *Advances Data Science Architecture(Python)*](https://github.com/ZihanWan97/Northeastern-University-Course-Projects/tree/main/INFO7390%20Advances%20Data%20Science%20Architecture)
