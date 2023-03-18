@@ -7,16 +7,16 @@ https://user-images.githubusercontent.com/103607344/165450953-99645b13-a5fa-475f
 
 # Tableau
 ## RoomDistribution
-<img src="https://user-images.githubusercontent.com/103607344/166068012-83641cc6-98fc-4dbb-8c79-f68f9b5bf52e.png" width="800" height="450" />    
+![image](https://user-images.githubusercontent.com/103607344/226143670-24dc0176-1d8f-4287-a530-d3198f708fd2.png)
 
 ## ApplicationDistribution
-<img src="https://user-images.githubusercontent.com/103607344/166067812-21b88a86-04b8-49eb-9907-ed685ab3648c.png" width="800" height="450" />    
+![image](https://user-images.githubusercontent.com/103607344/226143675-b6e94f0a-72ce-4077-af0f-38463d747c25.png)
 
 ## ServiceCompanyEvaluation
-<img src="https://user-images.githubusercontent.com/103607344/166068149-1d741519-6feb-4360-99f2-4fb06699d960.png" width="800" height="450" />    
+![image](https://user-images.githubusercontent.com/103607344/226143680-6057af98-3646-4385-89b7-47eb9313908b.png)
 
 ## ApplicationVsVisit
-<img src="https://user-images.githubusercontent.com/103607344/166068286-3bceb756-10e3-4aab-a89f-8ccb6b6c7ce2.png" width="800" height="450" />    
+![image](https://user-images.githubusercontent.com/103607344/226143685-d3ee550f-f80d-40d0-8516-89d1558e0a7e.png)
 
 ## PerformanceEvaluation
-<img src="https://user-images.githubusercontent.com/103607344/166068369-35f72ce7-c974-4f6b-9b3d-d81e878a4667.png" width="800" height="450" />  
+![image](https://user-images.githubusercontent.com/103607344/226143689-3eed8c82-536f-4571-a8d1-54d9c59161f5.png)
